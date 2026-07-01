@@ -1,0 +1,25 @@
+{
+  "name": "Тренажер ВИ 38.04.05 Бизнес-информатика",
+  "short_name": "ВИ 38.04.05",
+  "description": "Тренажер вопросов для вступительного испытания по направлению 38.04.05 Бизнес-информатика.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
